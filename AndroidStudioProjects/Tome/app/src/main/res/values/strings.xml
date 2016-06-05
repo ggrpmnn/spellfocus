@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tome</string>
+
+    <!-- Menu item  strings -->
+    <string name="action_settings">Settings</string>
+    <string name="action_filter">Filter List</string>
+
+    <!-- Title strings -->
+    <string name="title_activity_spell_display">Tome</string>
+    <string name="title_activity_spell_list_display">Tome</string>
+
+    <!-- Filter dialog strings -->
+    <string name="dialog_title">Filter Options</string>
+    <string name="filter">Filter</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Placeholder strings for SpellDisplayActivity -->
+    <string name="nameText">Name</string>
+    <string name="sourceText">Source</string>
+    <string name="levelSchoolText">Level and School</string>
+    <string name="castTimeText">Cast Time</string>
+    <string name="rangeText">Range</string>
+    <string name="componentText">Components</string>
+    <string name="durationText">Duration</string>
+    <string name="descriptionText">Description</string>
+</resources>
